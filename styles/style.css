@@ -78,7 +78,7 @@
 
 .cover {
     position: relative;
-    background-image: url(/images/lotus-flower.jpg);
+    background-image: url(../images/lotus-flower.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -223,7 +223,7 @@
     flex-direction: column;
     gap: 267px;
     padding: 50px 40px 60px 40px;
-    background-image: url(/images/card_lot_1_1.jpg);
+    background-image: url(../images/card_lot_1_1.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -233,7 +233,7 @@
     flex-direction: column;
     gap: 35px;
     padding: 50px 40px;
-    background-image: url(/images/photo_card-book.jpg);
+    background-image: url(../images/photo_card-book.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -244,7 +244,7 @@
     flex-direction: column;
     gap: 131px;
     padding: 50px 40px;
-    background-image: url(/images/photo_card-picture.jpg);
+    background-image: url(../images/photo_card-picture.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
